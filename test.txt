@@ -1,1 +1,2 @@
-Testowy plik GIT
+Testowy plik GIT, v2
+poprawka
